@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mafia Mod</string>
+    <string name="werewolves">Mafia Mod</string>
+    <string name="empty_text">No players added. Long press when done.</string>
+    <string name="total_players">Players:</string>
+    <string name="zero">0</string>
+    <string name="start_button">START</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="next_button">Next</string>
+    <string name="no_players_message">Can\'t play with no players</string>
+    <string name="intermediate_screen_message">Press \"Next\" when you\'re ready to see the role!</string>
+    <string name="show_description">Show description</string>
+    <string name="hide_description">Hide description</string>
+    <string name="reset_button">Reset</string>
+    <string name="show_role">Show role</string>
+    <string name="slash">/</string>
+    <string name="credits">Credits</string>
+    <string name="exit">Exit</string>
+    <string name="credit">Icon made by Freepik from www.flaticon.com</string>
+</resources>

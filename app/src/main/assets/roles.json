@@ -1,0 +1,42 @@
+[
+  {
+  	"name": "Civilian",
+  	"description": "Be the normal, boring person you are."
+  },
+  {
+  	"name": "Detective",
+  	"description": "Investigate one person each night for a clue to their role."
+  },
+  {
+  	"name": "Doctor",
+  	"description": "Heal one person each night, preventing them from dying."
+  },
+  {
+  	"name": "Mafia",
+  	"description": "Plot to kill one of the civilians each night."
+  },
+  {
+  	"name": "King Mafia",
+  	"description": "Plot to kill an extra civilian each night. Takes two investigations to reveal this role."
+  },
+  {
+  	"name": "Joker",
+  	"description": "The ultimate wild card. Side with the Mafia and choose to kill an extra player, or be the saviour and protect a civilian, or probe into the Mafia ranks by investigating players."
+  },
+  {
+  	"name": "Terrorist",
+  	"description": "A suicide bomber. Choose to take a player along when you explode during the day phase."
+  },
+  {
+  	"name": "Silencer",
+  	"description": "Mafia-aligned. At night, mutes a person. That person cannot speak during the next day. The target may still vote."
+  },
+  {
+  	"name": "Hex Master",
+  	"description": "May switch any two people during the night. Any action aimed at one of the switched people will hit the other instead."
+  },
+  {
+  	"name": "Ghost",
+  	"description": "Comes back to talk during the day phase after being killed."
+  }
+]
